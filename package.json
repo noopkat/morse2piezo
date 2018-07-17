@@ -1,0 +1,19 @@
+{
+  "name": "morse2piezo",
+  "version": "1.0.0",
+  "description": "converts morse code notation to a piezo song",
+  "main": "morse2piezo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noopkat/morse2piezo.git"
+  },
+  "author": "Suz Hinton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noopkat/morse2piezo/issues"
+  },
+  "homepage": "https://github.com/noopkat/morse2piezo#readme"
+}
